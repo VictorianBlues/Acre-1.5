@@ -1,4 +1,4 @@
-
+#Republic of China (Can't be bothered to make a new file)
 
 graphical_culture = asian_gfx
 graphical_culture_2d = asian_2d

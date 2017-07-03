@@ -1,4 +1,4 @@
-
+#Melanesian Coalition (Can't be bothered to make a new country)
 
 graphical_culture = commonwealth_gfx
 graphical_culture_2d = commonwealth_2d

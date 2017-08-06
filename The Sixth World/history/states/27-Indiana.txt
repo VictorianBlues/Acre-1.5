@@ -1,0 +1,25 @@
+
+state={
+	id=27
+	name="STATE_27"
+	manpower = 7905615
+	
+	state_category = large_city
+
+	history={
+		owner = UCAS
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+		}
+		add_core_of = UCAS
+		victory_points = {
+			429 10 
+		}
+
+	}
+
+	provinces={
+		421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437
+	}
+}

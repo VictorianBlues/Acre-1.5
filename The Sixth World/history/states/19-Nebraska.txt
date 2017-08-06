@@ -1,0 +1,28 @@
+
+state={
+	id=19
+	name="STATE_19"
+	manpower = 1738633
+	
+	state_category = city
+
+	history={
+		owner = UCAS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = UCAS
+		victory_points = {
+			280 3 
+		}
+		victory_points = {
+			285 3 
+		}
+
+	}
+
+	provinces={
+		278 279 280 281 282 283 284 285
+	}
+}

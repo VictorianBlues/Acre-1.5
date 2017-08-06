@@ -1,0 +1,30 @@
+
+state={
+	id=9
+	name="STATE_9"
+	manpower = 1066505
+	
+	state_category = City
+
+	history={
+		owner = UCAS
+		victory_points = {
+			142 3
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+			142 = {
+				naval_base = 4
+
+			}
+		}
+		add_core_of = UCAS
+	}
+
+	provinces={
+		138 139 140 141 142 143 144 145
+	}
+	
+}

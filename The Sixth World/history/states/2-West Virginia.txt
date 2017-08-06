@@ -1,0 +1,19 @@
+
+state={
+	id=2
+	name="STATE_2"
+	manpower = 1831102
+
+	state_category = city
+
+	history={
+		owner = UCAS
+		add_core_of = UCAS
+		victory_points = {
+			17 3
+		}
+
+	provinces={
+		10 11 12 13 14 15 16 17 18 19 20 21 22
+	}
+}

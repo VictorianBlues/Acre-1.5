@@ -1,0 +1,24 @@
+
+state={
+	id=10
+	name="STATE_10"
+	manpower = 528448
+	
+	state_category = large_town
+
+	history={
+		owner = UCAS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			147 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = UCAS
+	}
+
+	provinces={
+		147 148 149 150 151
+	}
+}

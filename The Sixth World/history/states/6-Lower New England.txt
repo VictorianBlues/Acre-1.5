@@ -1,0 +1,42 @@
+
+state={
+	id=6
+	name="STATE_6"
+	manpower = 11647224
+
+	state_category = metropolis
+
+	resources={
+		steel=20.000
+	}
+
+
+	history={
+		owner = UCAS
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			106 = {
+				naval_base = 8
+
+			}
+			102 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = UCAS
+		victory_points = {
+			106 20 
+		}
+	}
+
+	provinces={
+		99 100 101 102 103 104 105 106 107 108 109 110
+	}
+	buildings_max_level_factor=1.000
+}

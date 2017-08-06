@@ -1,0 +1,47 @@
+state={
+	id=25
+	name="STATE_25"
+	manpower=10816556
+	
+	state_category = metropolis
+
+	resources={
+		steel=112.000
+		oil=10.000
+	}
+
+
+	history={
+		owner = UCAS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 6
+			air_base = 4
+
+		}
+		add_core_of = UCAS
+		victory_points = {
+			394 20 
+		}
+		victory_points = {
+			386 10 
+		}
+		victory_points = {
+			390 3 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396
+	}
+	buildings_max_level_factor=1.000
+}

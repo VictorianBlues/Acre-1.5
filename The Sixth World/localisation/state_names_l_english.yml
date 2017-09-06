@@ -4,4 +4,4 @@
 STATE_7:0 "New England" STATE_8:0 "New Brunswick" STATE_9:0 "Nova Scotia" STATE_10:0 "Newfoundland" STATE_11:0 "St. Pierre and Miquelon" STATE_12:0 "Labrador"
 STATE_13:0 "Quebec" STATE_14:0 "St. Lawrence Lowlands" STATE_15:0 "Ontario" STATE_16:0 "Saskatchewan-Manitoba" STATE_17:0 "North Dakota" STATE_18:0 "South Dakota"
 STATE_19:0 "Nebraska" STATE_20:0 "Kansas" STATE_21:0 "North Missouri" STATE_22:0 "Iowa" STATE_23:0 "Minnesota" STATE_24:0 "Wisconsin" STATE_25:0 "Michigan"
-STATE_26:0 "Ohio" STATE_27:0 "Indiana" STATE_28:0 "Chicago Sprawl" STATE_29:0 "Illinois"
+STATE_26:0 "Ohio" STATE_27:0 "Indiana" STATE_28:0 "Chicago Sprawl" STATE_29:0 "Illinois" STATE_30:0 "Kentucky" STATE_31:0 "Virginia"

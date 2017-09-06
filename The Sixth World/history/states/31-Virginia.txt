@@ -1,0 +1,40 @@
+
+state={
+	id=31
+	name="STATE_31"
+	manpower = 6578679
+	
+	state_category = large_city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			dockyard = 4
+			air_base = 10
+			493 = {
+				naval_base = 10
+
+			}
+		}
+		add_core_of = CAS
+		victory_points = {
+			485 3
+		}
+		victory_points = {
+			493 10
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 5
+			}
+		}
+
+	}
+
+	provinces={
+		476 477 478 479 480 481 482 483 484 485 486 487 489 490 491 492 493
+	}
+}

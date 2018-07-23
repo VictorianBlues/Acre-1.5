@@ -1,0 +1,32 @@
+
+state={
+	id=32
+	name="STATE_32"
+	manpower = 10146788
+	
+	state_category = metropolis
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			air_base = 3
+			499 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = CAS
+		victory_points = {
+			504 5 
+		}
+		victory_points = {
+			506 10 
+		}
+
+	}
+
+	provinces={
+		494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 
+	}
+}

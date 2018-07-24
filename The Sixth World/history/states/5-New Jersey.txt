@@ -7,7 +7,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = UCAS
+		owner = UCA
 		victory_points = {
 			93 5 
 		}
@@ -17,7 +17,7 @@ state={
 			air_base = 4
 
 		}
-		add_core_of = UCAS
+		add_core_of = UCA
 	}
 
 	provinces={

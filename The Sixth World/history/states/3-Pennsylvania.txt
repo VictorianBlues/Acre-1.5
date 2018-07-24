@@ -12,7 +12,7 @@ state={
 
 
 	history={
-		owner = UCAS
+		owner = UCA
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 5
@@ -23,7 +23,7 @@ state={
 
 			}
 		}
-		add_core_of = UCAS
+		add_core_of = UCA
 		victory_points = {
 			36 20
 		}

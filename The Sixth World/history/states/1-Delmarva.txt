@@ -7,7 +7,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = UCAS
+		owner = UCA
 		victory_points = {
 			1 40 
 		}
@@ -28,7 +28,7 @@ state={
 
 			}
 		}
-		add_core_of = UCAS
+		add_core_of = UCA
 
 	}
 

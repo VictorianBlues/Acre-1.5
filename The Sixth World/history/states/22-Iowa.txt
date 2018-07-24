@@ -7,12 +7,12 @@ state={
 	state_category = city
 
 	history={
-		owner = UCAS
+		owner = UCA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 4
 		}
-		add_core_of = UCAS
+		add_core_of = UCA
 		victory_points = {
 			325 3 
 		}

@@ -1,29 +1,29 @@
 
 state={
-	id=39
-	name="STATE_39"
-	manpower = 2984100
+	id=370
+	name="STATE_370"
+	manpower = 2009820
 	
 	state_category = city
 
 	history={
-		owner = CAS
+		owner = USA
 		victory_points = {
-			600 1 
+			4464 1 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 3
-			606 = {
+			4464 = {
 				naval_base = 4
 			}
 		}
-		add_core_of = CAS
+		add_core_of = USA
 	}
 
 	provinces={
-		593 594 595 596 597 598 599 600 601 602 603 604 605 606
+		1615 4464 4510 4565 4650 7464 7668 8110 10410 10449 10753 11717 12328 12429 
 	}
 	
 }

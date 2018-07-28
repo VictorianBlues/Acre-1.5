@@ -1,0 +1,37 @@
+
+state={
+	id=40
+	name="STATE_40"
+	manpower = 4893938
+	
+	state_category = city
+	
+	resources={
+		oil=66
+	}
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 5
+			609 = {
+				naval_base = 5
+
+			}
+		}
+		add_core_of = CAS
+		victory_points = {
+			608 5 
+		}
+		victory_points = {
+			609 15 
+		}
+
+	}
+
+	provinces={
+		607 608 609 610 611 612 613 614 615 616 617 618 619 620
+	}
+}

@@ -13,6 +13,7 @@
 - [x] Country Tags
 - [ ] Generic GFX
 - [ ] Loading Screens
+- [ ] Loading Screen Quotes/Lore Facts
 - [ ] Music
 - [ ] Generic Ideas
 - [ ] Generic Scripts

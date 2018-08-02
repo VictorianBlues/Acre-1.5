@@ -1,0 +1,32 @@
+state={
+	id=45
+	name="STATE_45"
+	manpower = 5588740
+	
+	
+	state_category = large_city
+	
+	resources={
+	}
+
+
+	history={
+		owner = AZT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 9
+			air_base = 3
+			697 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = AZT
+		victory_points = {
+			701 5 
+		}
+	}
+
+	provinces={
+		697 698 699 700 701 702 703 704 705 706 707 708 709 710
+	}
+}

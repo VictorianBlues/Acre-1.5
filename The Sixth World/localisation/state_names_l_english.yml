@@ -6,4 +6,4 @@ STATE_13:0 "Quebec" STATE_14:0 "St. Lawrence Lowlands" STATE_15:0 "Ontario" STAT
 STATE_19:0 "Nebraska" STATE_20:0 "Kansas" STATE_21:0 "North Missouri" STATE_22:0 "Iowa" STATE_23:0 "Minnesota" STATE_24:0 "Wisconsin" STATE_25:0 "Michigan"
 STATE_26:0 "Ohio" STATE_27:0 "Indiana" STATE_28:0 "Chicago Sprawl" STATE_29:0 "Illinois" STATE_30:0 "Kentucky" STATE_31:0 "Virginia" STATE_32:0 "North Carolina"
 STATE_33:0 "South Carolina" STATE_34:0 "Georgia" STATE_35:0 "Florida" STATE_36:0 "South Florida" STATE_37:0 "Alabama" STATE_38:0 "Tennesse" STATE_39:0 "Mississippi"
-STATE_40:0 "Louisiana" STATE_41:0 "Arkansas" STATE_42:0 "South Missouri" STATE_43:0 "Oklahoma"
+STATE_40:0 "Louisiana" STATE_41:0 "Arkansas" STATE_42:0 "South Missouri" STATE_43:0 "Oklahoma" STATE_44:0 "Texas" STATE_45:0 "Occupied Texas"

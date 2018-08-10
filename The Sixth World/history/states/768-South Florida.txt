@@ -1,0 +1,27 @@
+state={
+	id=768
+	name="STATE_768"
+	manpower = 3881611
+
+	state_category = city
+	history={
+		owner = CAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			1843 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = CAR
+		victory_points = {
+			1843 10
+		}	
+	}
+
+	provinces={
+		1843 13206 
+	}
+	buildings_max_level_factor=1.000
+}

@@ -1,6 +1,5 @@
 
-
 graphical_culture = asian_gfx
-graphical_culture_2d = asian_2d	 
+graphical_culture_2d = asian_2d
 
-color = { 89  62  112 }
+color = { 230  223  50 } #easy yellow

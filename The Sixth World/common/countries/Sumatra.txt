@@ -1,0 +1,6 @@
+# Sumatran Alliance
+
+graphical_culture = asian_gfx
+graphical_culture_2d = commonwealth_2d
+
+color = { 114  6  41 }

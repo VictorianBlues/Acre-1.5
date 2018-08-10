@@ -1,0 +1,19 @@
+state={
+	id=765
+	name="STATE_765"
+	manpower = 834691
+
+	state_category = large_town
+	
+	history={
+		owner = UCA
+		add_core_of = UCA
+		victory_points = {
+			4872 3
+		}
+	}
+
+	provinces={
+		1788 1848 1873 4790 4872 12145 13221 
+	}
+}

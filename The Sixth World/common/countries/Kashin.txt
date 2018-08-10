@@ -1,0 +1,6 @@
+# Kashin State
+
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d	 
+
+color = { 213  211  229 }

@@ -1,0 +1,25 @@
+state={
+	id=766
+	name="STATE_766"
+	manpower = 3056766
+
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+		}
+		add_core_of = CAS
+		victory_points = {
+			4569 5 
+		}
+	}
+
+
+	provinces={
+		1441 1621 4449 4540 4569 10370 12346 12463 13213 
+	}
+	buildings_max_level_factor=1.000
+}

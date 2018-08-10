@@ -1,0 +1,35 @@
+state={
+	id=764
+	name="STATE_764"
+	manpower = 11647224
+
+	state_category = metropolis
+
+	history={
+		owner = UCA
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = UCA
+		victory_points = {
+			6732 20 
+		}
+	}
+	provinces={
+		715 718 905 908 3710 3906 6732 6909 9832 9847 9850 11830 
+	}
+	buildings_max_level_factor=1.000
+}

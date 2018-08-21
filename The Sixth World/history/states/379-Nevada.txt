@@ -1,0 +1,31 @@
+
+state={
+	id=379
+	name="STATE_379"
+	manpower = 2634204
+
+	state_category = city
+
+	resources={
+		steel=70.000
+		tungsten=32.000
+		aluminium=25.000
+	}
+
+	history={
+		owner = UTE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = UTE
+		victory_points = {
+			4799 5
+		}
+	}
+
+	provinces={
+		1862 4521 4607 4736 4799 4816 7756 7827 7879 9695 10422 10591 12399 12425 12607 
+	}
+	buildings_max_level_factor=1.000
+}

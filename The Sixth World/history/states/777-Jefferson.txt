@@ -1,0 +1,15 @@
+state={
+	id=777
+	name="STATE_777"
+	manpower = 368900
+
+	state_category = town
+
+	history={
+		owner = TIR
+		add_core_of = TIR
+	}
+	provinces={
+		781 3588 3644 4331 6482 6665 10159 13234 13235 
+	}
+}

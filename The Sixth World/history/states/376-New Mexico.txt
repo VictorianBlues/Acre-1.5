@@ -1,0 +1,35 @@
+
+state={
+	id=376
+	name="STATE_376"
+	manpower = 1636981
+
+	state_category = city
+
+	resources={
+		oil=14.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = PUE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = PUE
+		victory_points = {
+			4975 40
+		}
+		victory_points = {
+			1972 5
+		}
+
+	}
+
+	provinces={
+		1972 2102 3883 4975 8070 10642 10645 10867 10914 12552 12684 
+	}
+	buildings_max_level_factor=1.000
+}

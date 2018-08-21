@@ -1,0 +1,15 @@
+state={
+	id=772
+	name="STATE_772"
+	manpower = 635124
+
+	state_category = large_town
+
+	history = {
+		owner = UTE
+		add_core_of = UTE
+	}
+	provinces={
+		850 1793 7821 10573 11814 12765 13224
+	}
+}

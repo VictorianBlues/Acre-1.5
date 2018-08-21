@@ -1,0 +1,29 @@
+
+state={
+	id=382
+	name="STATE_382"
+	manpower = 399484
+
+	state_category= town
+	resources={
+		oil=14.000
+	}
+
+	history={
+		owner = PUE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = PUE
+		victory_points = {
+			12627 5 
+		}
+
+	}
+
+	provinces={
+		868 1658 1809 9792 12627 13214 13226 13229 13230 
+	}
+}

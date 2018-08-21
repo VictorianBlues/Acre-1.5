@@ -1,0 +1,27 @@
+
+state={
+	id=387
+	name="STATE_387"
+	manpower = 1706284
+
+	state_category = city
+
+	resources={
+		steel=18.000
+		chromium=1.000
+		tungsten=18.000
+	}
+
+	history={
+		owner = SAL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SAL
+	}
+
+	provinces={
+		1736 1789 1832 3781 4778 4838 6742 7845 9616 10556 10602 10672 12124 12676 13239 13241 
+	}
+}

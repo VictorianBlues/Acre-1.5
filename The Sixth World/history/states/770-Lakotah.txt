@@ -1,9 +1,18 @@
 state={
 	id=770
 	name="STATE_770"
+	manpower = 437222
+
+	state_category = town
+
+	history={
+		owner = SIO
+		add_core_of = SIO
+		victory_points = {
+			1747 5
+		}
+	}
 	provinces={
 		1747 1875 3613 3750 4749 4760 4830 4839 6722 7745 7840 7877 12566 
 	}
-	manpower=0
-	buildings_max_level_factor=1.000
 }

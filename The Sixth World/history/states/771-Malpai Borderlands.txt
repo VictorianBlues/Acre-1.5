@@ -1,0 +1,18 @@
+state={
+	id=771
+	name="STATE_771"
+	manpower = 1805869
+
+	state_category = city
+
+	history={
+		owner = AZT
+		add_core_of = AZT
+		victory_points = {
+			3834 5
+		}
+	}		
+	provinces={
+		3834 3867 5044 7920 10783 12720 12791 13223 
+	}
+}

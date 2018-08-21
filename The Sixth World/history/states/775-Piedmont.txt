@@ -1,0 +1,16 @@
+
+state={
+	id=775
+	name="STATE_775"
+	manpower = 724587
+
+	state_category = large_town
+
+	history={
+		owner = SIO
+		add_core_of = SIO
+	}	
+	provinces={
+		1738 7780 11772 12570 12642 13216 13228 13236 
+	}
+}

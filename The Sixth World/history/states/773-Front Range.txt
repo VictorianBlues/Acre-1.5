@@ -1,0 +1,19 @@
+state={
+	id=773
+	name="STATE_773"
+	manpower = 3911000
+
+	state_category = city
+
+	history={
+		owner = DNV
+		add_core_of = DNV
+		victory_points = {
+			1827 40
+		}
+	}
+	provinces={
+		1827 10588 
+	}
+	buildings_max_level_factor=1.000
+}

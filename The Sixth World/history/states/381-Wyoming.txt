@@ -1,0 +1,24 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 579315
+
+	state_category = large_town
+
+	history={
+		owner = SIO
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SIO
+		victory_points = {
+			4723 40
+		}
+	}
+	provinces={
+		1815 4610 4723 4794 4820 7688 7814 10640 10711 12561 12651 13238 
+	}
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=780
+	name="STATE_780"
+	manpower = 34707
+
+	state_category = pastoral
+
+	history={
+		owner = SIO
+		add_core_of = SIO
+	}
+	provinces={
+		3769 7718 10552 12603 13242 
+	}
+}

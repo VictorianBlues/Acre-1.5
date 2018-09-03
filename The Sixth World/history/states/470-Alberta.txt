@@ -2,25 +2,26 @@
 state={
 	id=470
 	name="STATE_470"
+	manpower = 2471671
+
+	state_category = city
 
 	history={
-		owner = CAN
+		owner = ATH
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 
 		}
 		victory_points = {
-			3010 3 
+			3010 15 
 		}
-		add_core_of = CAN
+		add_core_of = ATH
 
 	}
 
 	provinces={
-		515 1262 1347 1763 1804 3010 3706 4765 6726 6754 7766 7787 10684 12166 
+		515 1347 1763 1804 3010 4877 6754 7766 7787 12166 13245 13252 13259 13267 
 	}
-	manpower=690800
 	buildings_max_level_factor=1.000
-	state_category=rural
 }

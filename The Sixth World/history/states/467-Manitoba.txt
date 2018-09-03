@@ -2,25 +2,21 @@
 state={
 	id=467
 	name="STATE_467"
+	manpower = 537159
+
+	state_category = large_town
 
 	history={
-		owner = CAN
+		owner = AMC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		victory_points = {
-			4872 5 
-		}
-		add_core_of = CAN
-
+		add_core_of = AMC
 	}
 
 	provinces={
-		3721 4218 4426 5119 12636 12688 
+		1671 3721 3800 4218 4426 5119 5239 6728 7185 7782 9615 10585 10605 12636 12682 12688 13163 13168 13182 13188 13248 13251 13254 13258 13260 13261 
 	}
-	manpower=651071
-	buildings_max_level_factor=1.000
-	state_category=rural
 }

@@ -1,0 +1,26 @@
+state={
+	id=739
+	name="STATE_739"
+	manpower = 5000
+
+	state_category = small_island
+
+	history={
+		owner = TSI
+		buildings = {
+			infrastructure = 1
+
+			1869 = {
+				naval_base = 1
+
+			}
+
+
+		}
+		add_core_of = TSI
+	}
+
+	provinces={
+		1869
+	}
+}

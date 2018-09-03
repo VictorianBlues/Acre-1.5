@@ -2,22 +2,28 @@
 state={
 	id=469
 	name="STATE_469"
+	manpower = 2695078
+
+	state_category = rural
 
 	history={
-		owner = CAN
+		owner = AMC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		add_core_of = CAN
+		add_core_of = AMC
+		victory_points = {
+			3706 15
+		}
+		victory_points = {
+			4739 40
+		}
 
 	}
 
 	provinces={
-		736 3481 3498 4739 9669 10611 10656 11440 12593 12663 13243 
+		736 1262 3481 3498 3706 4739 6726 9669 10611 10656 10684 11440 12593 12663 13243 13244 13250 
 	}
-	manpower=865605
-	buildings_max_level_factor=1.000
-	state_category=rural
 }

@@ -1,5 +1,9 @@
 #reload countrycolors
 
+AZT = {
+	color = rgb { 104  152  83 }
+	color_ui = rgb { 104  152  83 }
+}
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
@@ -30,12 +34,29 @@ BEL = { color 	 = rgb { 193 171 8  }
 HOL = {	color = rgb { 203 138 74 }
 		color_ui = rgb { 255 179 96 }
 }
+DNV = {	color = rgb { 100 111 100 }
+		color_ui = rgb { 100 111 100 }
+}
+
 CZE = {	color = rgb { 54 167 156 }
 		color_ui = rgb { 70 217 203 }
+}
+CAS = {	color = rgb { 0 86 134 }
+		color_ui = rgb { 0 86 134 }
+}
+CAR = {	color = rgb { 152  130  191 }
+		color_ui = rgb { 152  130  191 }
+}
+CAL = {	color = rgb { 255 142 46 }
+		color_ui = rgb { 255 142 46 }
 }
 POL = {
 	color = rgb { 197 92 106 }
 	color_ui = rgb { 255 120 138 }
+}
+PUE = {
+	color = rgb { 204  77  90 }
+	color_ui = rgb { 204  77  90 }
 }
 AUS = {
 	color = rgb { 194 198 215 }
@@ -73,9 +94,25 @@ SWI = {
 	color = rgb { 224 5 5 }
 	color_ui = rgb { 193 81 81 }
 }
+SAL = {
+	color = rgb { 72 180 98 }
+	color_ui = rgb { 72 180 98 }
+}
+SIO = {
+	color = rgb { 178  31  23 }
+	color_ui = rgb { 178 31 23 }
+}
 TUR = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 222 247 198 }
+}
+TIR = {
+	color = rgb { 160 80 245 }
+	color_ui = rgb { 160 80 245 }
+}
+UTE = {
+	color = rgb { 191  193  180 }
+	color_ui = rgb { 191  193  180 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -253,8 +290,8 @@ YUN = {
 	color = rgb { 114 148 80 }
 	color_ui = rgb { 222 247 198 }
 }
-USA = {
-	color = rgb { 20 133 237 }
+UCA = {
+	color = rgb { 67  123  237 }
 	color_ui = rgb { 87 160 255 }
 }
 MON = {
@@ -454,6 +491,26 @@ BOT = {
 PAK = {
 	color = rgb { 21 38 66 }
 	color_ui = rgb { 21 38 66 }
+}
+QUE = {
+	color = rgb { 47  88  237 }
+	color_ui = rgb { 47  88  237 }
+}
+TPA = {
+	color = rgb { 100 125 175 }
+	color_ui = rgb { 100 125 175 }
+}
+AMC = {
+	color = rgb { 119 48 39 }
+	color_ui = rgb { 119 48 39 }
+}
+ATH = {
+	color = rgb { 108 168 99 }
+	color_ui = rgb { 108 168 99 }
+}
+TSI = {
+	color = rgb { 213 213 226 }
+	color_ui = rgb { 213 213 226 }
 }
 D01 = {
 	color = rgb { 200 100 31 }
